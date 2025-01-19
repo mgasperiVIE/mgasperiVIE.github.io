@@ -10,6 +10,9 @@ description: >
 
 # Build settings
 
+# Include directories or files
+include: [".well-known/atproto-did"]
+
 # If you clone the Minima repo and build locally, use this setting.
 #theme: minima
 
